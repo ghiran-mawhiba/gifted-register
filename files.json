@@ -1,1 +1,489 @@
-{"meta":{"school":"متوسطة غران","principal":"عائشة عبدالعزيز الراشدي","coordinator":"أمل المزروعي","year":"1448 هـ","stage":"المتوسطة"},"files":[{"id":"demo1","section":"school","name":"رابط تجريبي","kind":"link","url":"https://example.com","addedAt":1761900000000}]}
+{
+ "meta": {
+  "coordinator": "أمل عطيه المزروعي",
+  "principal": "عائشة عبدالعزيز الراشدي",
+  "school": "متوسطة غران",
+  "stage": "متوسطة",
+  "year": "١٤٤٨ هـ"
+ },
+ "files": [
+  {
+   "id": "000i71i3485wg8ohywj0",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي رياضيات",
+   "addedAt": 1792082447211,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 301882,
+   "path": "files/000i71i3485wg8ohywj0.pdf"
+  },
+  {
+   "id": "0l12ay07rq9rseqzbh23",
+   "section": "nasamo",
+   "name": "تقرير اللقاء ١ الطالبات",
+   "addedAt": 1791100078435,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 139193,
+   "path": "files/0l12ay07rq9rseqzbh23.pdf"
+  },
+  {
+   "id": "12etraja02aptceh9u03",
+   "section": "bebras",
+   "name": "كشف الطالبات المرشحات للمسابقة",
+   "addedAt": 1793468458990,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 50289,
+   "path": "files/12etraja02aptceh9u03.pdf"
+  },
+  {
+   "id": "1ckg2mslgpz70xt97qll",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي مهارات رقمية",
+   "addedAt": 1792082379189,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 220370,
+   "path": "files/1ckg2mslgpz70xt97qll.pdf"
+  },
+  {
+   "id": "1mp6pgkwgoak3n66w5xl",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي فنية",
+   "addedAt": 1792082812699,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 225332,
+   "path": "files/1mp6pgkwgoak3n66w5xl.pdf"
+  },
+  {
+   "id": "2bujy387qxnnq64a18o2",
+   "section": "nasamo",
+   "name": "مقاييس الترشيح",
+   "addedAt": 1791056105883,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 657679,
+   "path": "files/2bujy387qxnnq64a18o2.pdf"
+  },
+  {
+   "id": "31wsp7b739s4xctpu5s5",
+   "section": "ads",
+   "name": "اعلان بيبراس",
+   "addedAt": 1791930733836,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 286647,
+   "path": "files/31wsp7b739s4xctpu5s5.jpeg"
+  },
+  {
+   "id": "3ejw1gg4bmx61q7v5w16",
+   "section": "nasamo",
+   "name": "كشف الطالبات المرشحات للمسابقة",
+   "addedAt": 1791054501574,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 115630,
+   "path": "files/3ejw1gg4bmx61q7v5w16.pdf"
+  },
+  {
+   "id": "6y947m861t0vnpalcimb",
+   "section": "mawhiba",
+   "name": "كشف الطالبات المرشحات بعد المقياس",
+   "addedAt": 1793468439018,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 52275,
+   "path": "files/6y947m861t0vnpalcimb.pdf"
+  },
+  {
+   "id": "7uftcok8otm063tkka5f",
+   "section": "nasamo",
+   "name": "موافقة اولياء الامور",
+   "addedAt": 1793261829607,
+   "kind": "link",
+   "url": "https://drive.google.com/drive/folders/1Xbr8_Q5922W9RnVe_UtfhgzKnEpvBpuW"
+  },
+  {
+   "id": "7zq941f3sz5b4sad33u6",
+   "section": "ads",
+   "name": "اعلان بيبراس",
+   "addedAt": 1793040579723,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 313700,
+   "path": "files/7zq941f3sz5b4sad33u6.jpeg"
+  },
+  {
+   "id": "82ne5y88gqlqp07sj2sg",
+   "section": "extra",
+   "name": "نشاط فني",
+   "addedAt": 1790966355596,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 381993,
+   "path": "files/82ne5y88gqlqp07sj2sg.pdf"
+  },
+  {
+   "id": "acexb3mzb4ewrwl87dk3",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي لغتي",
+   "addedAt": 1792082477174,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 190921,
+   "path": "files/acexb3mzb4ewrwl87dk3.pdf"
+  },
+  {
+   "id": "bmqu0vnvznq2w8z6r4ns",
+   "section": "bebras",
+   "name": "تفاصيل المسابقة",
+   "addedAt": 1793040504135,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 288986,
+   "path": "files/bmqu0vnvznq2w8z6r4ns.jpeg"
+  },
+  {
+   "id": "cwyym5634dmkfvqbw8px",
+   "section": "school",
+   "name": "بطاقة بيانات المدرسة",
+   "addedAt": 1792185656927,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 113173,
+   "path": "files/cwyym5634dmkfvqbw8px.pdf"
+  },
+  {
+   "id": "esov9jxtpxadvsa4lfxr",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي إنجليزي",
+   "addedAt": 1792082414863,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 189132,
+   "path": "files/esov9jxtpxadvsa4lfxr.pdf"
+  },
+  {
+   "id": "f4pf80g5nb5culva4y62",
+   "section": "nasamo",
+   "name": "الخطة الزمنية لمسابقة نسمو",
+   "addedAt": 1791103137802,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 104045,
+   "path": "files/f4pf80g5nb5culva4y62.pdf"
+  },
+  {
+   "id": "fjayj2or7h4dkxc8g2h0",
+   "section": "ads",
+   "name": "إعلان موهبتي في وطني",
+   "addedAt": 1790966616509,
+   "kind": "file",
+   "ext": "jpg",
+   "size": 184120,
+   "path": "files/fjayj2or7h4dkxc8g2h0.jpg"
+  },
+  {
+   "id": "fwpcrt4an8jld56vyzam",
+   "section": "support",
+   "name": "تقرير تنفيذ برنامج اليوم الوطني",
+   "addedAt": 1791100212997,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 220931,
+   "path": "files/fwpcrt4an8jld56vyzam.pdf"
+  },
+  {
+   "id": "h2qwoocfzyrglrxlnn3e",
+   "section": "support",
+   "name": "الباحثة الصغيرة ١",
+   "addedAt": 1793446034274,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 1022125,
+   "path": "files/h2qwoocfzyrglrxlnn3e.pdf"
+  },
+  {
+   "id": "i64pxc4cpcwqf5tzsm1l",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي لغتي ٢",
+   "addedAt": 1792082560616,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 227762,
+   "path": "files/i64pxc4cpcwqf5tzsm1l.pdf"
+  },
+  {
+   "id": "iw0m08pm328pfm96bykj",
+   "section": "census",
+   "name": "كشف حصر الموهوبات في نظام نور",
+   "addedAt": 1791055677640,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 96775,
+   "path": "files/iw0m08pm328pfm96bykj.pdf"
+  },
+  {
+   "id": "j11990tlkp02bpfq9uvp",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي رياضيات ٣",
+   "addedAt": 1793446272864,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 780410,
+   "path": "files/j11990tlkp02bpfq9uvp.pdf"
+  },
+  {
+   "id": "jlowik7wvq9n60xcj2sa",
+   "section": "tools",
+   "name": "مقاييس ترشيح طالبات نسمو",
+   "addedAt": 1791055850543,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 657679,
+   "path": "files/jlowik7wvq9n60xcj2sa.pdf"
+  },
+  {
+   "id": "k3bj9hha6s3x74rvq6pk",
+   "section": "extra",
+   "name": "نشاط ثقافي",
+   "addedAt": 1790966395271,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 77000,
+   "path": "files/k3bj9hha6s3x74rvq6pk.pdf"
+  },
+  {
+   "id": "kes0l7l2v0sl464w2w7r",
+   "section": "mawhiba",
+   "name": "ورشة تدريبية للطالبات",
+   "addedAt": 1791054857108,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 125052,
+   "path": "files/kes0l7l2v0sl464w2w7r.pdf"
+  },
+  {
+   "id": "lx899k1jmr5j1kipbdia",
+   "section": "census",
+   "name": "كشف حصر الموهوبات في جميع المجالات",
+   "addedAt": 1791055496486,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 136773,
+   "path": "files/lx899k1jmr5j1kipbdia.pdf"
+  },
+  {
+   "id": "m22fucnmoc4to1c7xoxd",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي رياضيات ٢",
+   "addedAt": 1792082533188,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 194487,
+   "path": "files/m22fucnmoc4to1c7xoxd.pdf"
+  },
+  {
+   "id": "mwfct1o2xpsyursj9yc0",
+   "section": "nasamo",
+   "name": "ورشة تدريبية للطالبات",
+   "addedAt": 1791099314356,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 163211,
+   "path": "files/mwfct1o2xpsyursj9yc0.pdf"
+  },
+  {
+   "id": "oda5tk0wsaoech6ap4qn",
+   "section": "school",
+   "name": "بطاقة بيانات المنسقة",
+   "addedAt": 1792185635113,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 112884,
+   "path": "files/oda5tk0wsaoech6ap4qn.pdf"
+  },
+  {
+   "id": "ozataxr1sic6zvd1z26k",
+   "section": "plan",
+   "name": "الخطة السنوية لرعاية الموهوبات",
+   "addedAt": 1792186870320,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 151638,
+   "path": "files/ozataxr1sic6zvd1z26k.pdf"
+  },
+  {
+   "id": "pt0p1oxmev587rsq7b3g",
+   "section": "ads",
+   "name": "إعلان مسابقة نسمو",
+   "addedAt": 1789979665217,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 219970,
+   "path": "files/pt0p1oxmev587rsq7b3g.jpeg"
+  },
+  {
+   "id": "qikhvp3oybwlu1pcvtmw",
+   "section": "extra",
+   "name": "شهادات تكريم",
+   "addedAt": 1790966499674,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 4071133,
+   "path": "files/qikhvp3oybwlu1pcvtmw.pdf"
+  },
+  {
+   "id": "quvg6j2l0ljb7iu14cno",
+   "section": "extra",
+   "name": "نشاط علمي",
+   "addedAt": 1790966423817,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 167693,
+   "path": "files/quvg6j2l0ljb7iu14cno.pdf"
+  },
+  {
+   "id": "r1tjt97tv6f3ojuced9x",
+   "section": "extra",
+   "name": "نشاط ثقافي ٢",
+   "addedAt": 1790966476624,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 123294,
+   "path": "files/r1tjt97tv6f3ojuced9x.pdf"
+  },
+  {
+   "id": "r82sitx1rgazyah4dmua",
+   "section": "kaust_math",
+   "name": "اعلان المسابقة",
+   "addedAt": 1793040537511,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 285837,
+   "path": "files/r82sitx1rgazyah4dmua.jpeg"
+  },
+  {
+   "id": "ryv5qssns3mxmrd2d298",
+   "section": "ads",
+   "name": "إعلان مقياس موهبة للقدرات العقلية",
+   "addedAt": 1791055048130,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 173809,
+   "path": "files/ryv5qssns3mxmrd2d298.jpeg"
+  },
+  {
+   "id": "sa21akh58svm09wc6yzt",
+   "section": "ads",
+   "name": "اعلان مسابقة كاوست",
+   "addedAt": 1793040619835,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 285837,
+   "path": "files/sa21akh58svm09wc6yzt.jpeg"
+  },
+  {
+   "id": "sbrqnic9peylsaze53s1",
+   "section": "ads",
+   "name": "إعلان مسابقة سيف",
+   "addedAt": 1789979719599,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 238122,
+   "path": "files/sbrqnic9peylsaze53s1.jpeg"
+  },
+  {
+   "id": "uc0ohbr6u68biprk3c8q",
+   "section": "inclass",
+   "name": "تقرير نشاط صفي علوم",
+   "addedAt": 1792082501086,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 63568,
+   "path": "files/uc0ohbr6u68biprk3c8q.pdf"
+  },
+  {
+   "id": "ukdg0tx77njkd7anzk36",
+   "section": "support",
+   "name": "تحديات أسبوعية  ١",
+   "addedAt": 1793446108403,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 1116087,
+   "path": "files/ukdg0tx77njkd7anzk36.pdf"
+  },
+  {
+   "id": "uxqy81u41ge2vpn9q4x2",
+   "section": "bebras",
+   "name": "اعلان مسابقة بيبراس",
+   "addedAt": 1793040406453,
+   "kind": "file",
+   "ext": "jpeg",
+   "size": 313700,
+   "path": "files/uxqy81u41ge2vpn9q4x2.jpeg"
+  },
+  {
+   "id": "vgag9ayb5l0wpkofxi1s",
+   "section": "honor",
+   "name": "كشف الطالبات المكرمات",
+   "addedAt": 1791055925971,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 4071133,
+   "path": "files/vgag9ayb5l0wpkofxi1s.pdf"
+  },
+  {
+   "id": "vtayee0q0222bc3cu5rr",
+   "section": "extra",
+   "name": "نشاط علمي ٢",
+   "addedAt": 1790966446644,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 125779,
+   "path": "files/vtayee0q0222bc3cu5rr.pdf"
+  },
+  {
+   "id": "wj5qm9ksukiun6jsedi7",
+   "section": "committee",
+   "name": "لجنة الموهوبات",
+   "addedAt": 1790966735630,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 102411,
+   "path": "files/wj5qm9ksukiun6jsedi7.pdf"
+  },
+  {
+   "id": "x1pt8m3bfqt4cto3w0dj",
+   "section": "meetings",
+   "name": "الاجتماع الأول",
+   "addedAt": 1789970399101,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 166011,
+   "path": "files/x1pt8m3bfqt4cto3w0dj.pdf"
+  },
+  {
+   "id": "yyw1bp1knxs9lrqfbed1",
+   "section": "inclass",
+   "name": "نشاط صفي لغتي ٣",
+   "addedAt": 1793446180607,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 1114652,
+   "path": "files/yyw1bp1knxs9lrqfbed1.pdf"
+  },
+  {
+   "id": "zupsce3df3z3majpdsp3",
+   "section": "mawhiba",
+   "name": "كشف الطالبات المرشحات المدعوم",
+   "addedAt": 1792186102594,
+   "kind": "file",
+   "ext": "pdf",
+   "size": 57612,
+   "path": "files/zupsce3df3z3majpdsp3.pdf"
+  }
+ ]
+}
